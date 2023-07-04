@@ -1,0 +1,2 @@
+The program code implements the generation of a 16-digit bank card number. The generated number is checked by the Luna algorithm.
+The repository also contains an exe file obtained using the pyinstaller library. (exe - 32 bit)
